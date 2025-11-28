@@ -1,50 +1,81 @@
-# Welcome to your Expo app 👋
+<div align="center">
+https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Um aplicativo móvel simples e intuitivo para ajudar pessoas a organizarem suas compras mensais e controlarem o estoque doméstico
 
-## Get started
+</div>
+📱 Sobre o Projeto
+O OrganizaEstoque foi desenvolvido como trabalho de curso com o objetivo de facilitar a vida de pessoas que desejam ter maior controle sobre suas compras mensais e estoque doméstico. Ideal para:
 
-1. Install dependencies
+🧍 Pessoas que moram sozinhas
 
-   ```bash
-   npm install
-   ```
+👨‍👩‍👧‍👦 Famílias e donas de casa
 
-2. Start the app
+🎓 Estudantes em repúblicas
 
-   ```bash
-   npx expo start
-   ```
+🏠 Qualquer pessoa que queira organizar suas compras
 
-In the output, you'll find options to open the app in a
+🎯 Objetivos do App
+✅ Controlar o estoque de produtos em casa
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+✅ Planejar compras do mês de forma inteligente
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+✅ Evitar desperdícios através do controle de validade
 
-## Get a fresh project
+✅ Economizar dinheiro comprando apenas o necessário
 
-When you're ready, run:
+✅ Facilitar a organização doméstica
 
-```bash
-npm run reset-project
-```
+✨ Funcionalidades
+🛍️ Cadastro de Produtos
+Adicione produtos com nome, categoria, preço e quantidade
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Código personalizado para fácil identificação
 
-## Learn more
+Edição e exclusão de produtos cadastrados
 
-To learn more about developing your project with Expo, look at the following resources:
+🔍 Busca Inteligente
+Busca rápida por nome, categoria ou código
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Filtros em tempo real
 
-## Join the community
+Interface simples e intuitiva
 
-Join our community of developers creating universal apps.
+📊 Relatórios e Estatísticas
+Visão geral do estoque total
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Valor total investido em produtos
+
+Alertas de estoque baixo (menos de 10 unidades)
+
+Distribuição por categorias
+
+💰 Controle Financeiro
+Acompanhamento do valor total em estoque
+
+Planejamento de compras baseado no consumo real
+
+Prevenção de compras desnecessárias
+
+🚀 Tecnologias Utilizadas
+React Native - Framework para desenvolvimento mobile
+
+TypeScript - Linguagem para maior segurança no código
+
+Expo - Plataforma para desenvolvimento React Native
+
+Expo Router - Navegação entre telas
+
+Async Storage - Armazenamento local dos dados
+
+React Navigation - Sistema de navegação
+
+📥 Instalação e Uso
+Pré-requisitos
+Node.js instalado
+
+Expo CLI instalada globalmente
+
+Dispositivo móvel com app Expo Go ou emulador
