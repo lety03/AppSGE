@@ -3,7 +3,7 @@ Um aplicativo móvel simples e intuitivo para ajudar pessoas a organizarem suas 
 
 
 ## Sobre o Projeto
-O OrganizaEstoque foi desenvolvido como trabalho de curso com o objetivo de facilitar a vida de pessoas que desejam ter maior controle sobre suas compras mensais e estoque doméstico. Ideal para:
+O SGE foi desenvolvido como trabalho de curso com o objetivo de facilitar a vida de pessoas que desejam ter maior controle sobre suas compras mensais e estoque doméstico. Ideal para:
 
 🧍 Pessoas que moram sozinhas
 
